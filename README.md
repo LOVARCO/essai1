@@ -2,6 +2,8 @@
 
 [Page1](https://lovarco.github.io/essai1/Page1.html)
 
+[Page](https://github.com/LOVARCO/essai1/Page1.html)
+
 You can use the [editor on GitHub] to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
